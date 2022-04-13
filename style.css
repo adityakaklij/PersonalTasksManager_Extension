@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    padding-top: 50px;
+    /* font-size: 2em; */
+    min-width: 370px;
+    min-height: 540px;
+    max-width: 370px;
+    background-color: rgb(227, 255, 253);
+    border: 1px solid black;    
+}
+
+
+.button {
+    background: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 1.2em;
+    width: 80px;
+    text-align: center;
+
+}
+.button2{
+    margin: 4px;
+    background: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+
+
+.button:hover{
+    background-color: thistle;
+    color: yellow;
+}
+
+.button2:hover{
+    background-color: thistle;
+    color: yellow;
+}   
+
+
+.input {
+    width: 85%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 4px;
+    text-align: center;
+    border-radius: 5px;
+    height: 40px;
+    /* margin-top: 2px; */
+}
+ol {
+    margin-top: 10px;
+    padding-left: 0;
+
+
+}
+
+li {
+    margin-top: 5px;
+    color: black;
+    font-size: 1.5em;
+    text-align: left;
+    margin-left: 3%;
+    padding-bottom: 5px;
+    
+}
+
+/*  Added later */
+ol {
+    list-style: none;
+    counter-reset: my-awesome-counter;
+  }
+  ol li {
+    counter-increment: my-awesome-counter;
+    
+  }
+  ol li::before {
+    content: counter(my-awesome-counter) ".";
+    color: red;
+    font-size: 0.9em;
+
+  }
+
+ol .links :hover{
+    color: cyan;
+    /* background-color: darkgray; */
+}
+a{
+  text-decoration: none;
+  color: rgb(71, 71, 71);
+
+}
+
+.heading2{
+    text-align: left;
+    padding: 10px 10px;
+    color: black;
+    /* font-size: 1em; */
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.links:hover{
+    color: rgb(0, 4, 243);
+}
+
+li{
+    white-space: nowrap;
+}
+
+.links2{
+    white-space: pre-wrap;
+
+}
+span{
+    font-weight: normal;
+    font-size: 0.8em;
+    text-align: center;
+    color: red;
+}
