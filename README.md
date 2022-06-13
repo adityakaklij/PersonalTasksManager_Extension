@@ -23,6 +23,7 @@ Chrome Extension:- _[link](https://chrome.google.com/webstore/detail/todo-list-p
 
 <br />
 <br />
+
 ## Avaliable on the _Chrome Web Store_
 
 ![image](https://user-images.githubusercontent.com/90379168/173284904-c5bc05a1-60de-42c0-b0c0-11603eb35aa6.png)
