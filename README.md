@@ -2,7 +2,7 @@
 Personal tasks manager Chrome Extension.
 
 
-Chrome Extension:- [link]([url](https://chrome.google.com/webstore/detail/todo-list-personal-tasks/dmmfkhpjgdlkhhcdgnmadahcdgjhhjbg/))
+Chrome Extension:- _[link]_(https://chrome.google.com/webstore/detail/todo-list-personal-tasks/dmmfkhpjgdlkhhcdgnmadahcdgjhhjbg/)
 
 
  
@@ -22,4 +22,8 @@ Chrome Extension:- [link]([url](https://chrome.google.com/webstore/detail/todo-l
 
 
 
-# [Install from the Chrome Web Store]([url](https://chrome.google.com/webstore/detail/todo-list-personal-tasks/dmmfkhpjgdlkhhcdgnmadahcdgjhhjbg/))
+
+
+
+
+## [Install from the Chrome Web Store](https://chrome.google.com/webstore/detail/todo-list-personal-tasks/dmmfkhpjgdlkhhcdgnmadahcdgjhhjbg/)
